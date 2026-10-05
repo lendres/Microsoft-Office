@@ -15,7 +15,10 @@ $RECYCLE.BIN/
 *.msp
 
 
-Temporary Items
+# Temporary Items
 ~*
 *.bak
 *.sav
+
+# Office Created Files
+/Word/Templates/LiveContent/
